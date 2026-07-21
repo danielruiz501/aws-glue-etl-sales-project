@@ -1,0 +1,11 @@
+order_id,customer,city,product,quantity,price
+1001,Carlos,Monterrey,Laptop,1,1200
+1002,Ana,CDMX,Mouse,2,25
+1003,Luis,Guadalajara,Keyboard,1,45
+1004,Sofia,Puebla,Monitor,1,320
+1005,Pedro,Monterrey,Mouse,3,25
+1006,Maria,CDMX,Laptop,1,1200
+1007,Jose,Puebla,Keyboard,2,45
+1008,Laura,Guadalajara,Monitor,1,320
+1009,Raul,Monterrey,Mouse,5,25
+1010,Elena,CDMX,Laptop,2,1200
