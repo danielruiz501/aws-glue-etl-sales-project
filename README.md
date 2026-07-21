@@ -178,4 +178,4 @@ Daniel Ruiz López
 
 Bachelor's Degree in Information Technology Applied to Administration
 
-Aspiring AWS Data Engineer
+AWS Data Engineer
