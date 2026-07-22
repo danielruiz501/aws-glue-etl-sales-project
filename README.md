@@ -30,12 +30,18 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline built
 
 ## AWS Services Used
 
-- Amazon S3
-- AWS Glue Data Catalog
-- AWS Glue Crawlers
+## Technologies
+
 - AWS Glue Studio
+- AWS Glue Crawlers
+- AWS Glue Data Catalog
 - Amazon Athena
-- AWS IAM
+- Amazon S3
+- IAM
+- SQL
+- Apache Parquet
+- Git
+- GitHub
 
 ---
 
