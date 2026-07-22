@@ -1,5 +1,12 @@
 # AWS Glue ETL Sales Project
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Glue](https://img.shields.io/badge/AWS-Glue-blue)
+![Athena](https://img.shields.io/badge/AWS-Athena-232F3E)
+![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+![Parquet](https://img.shields.io/badge/Apache-Parquet-green)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
 ## Overview
 
 This project demonstrates a simple ETL (Extract, Transform, Load) pipeline built on AWS using serverless services. The pipeline ingests raw sales data from Amazon S3, catalogs it with AWS Glue Crawlers, transforms the data using AWS Glue Studio, stores it in Parquet format, and queries it using Amazon Athena.
