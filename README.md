@@ -11,6 +11,15 @@
 
 This project demonstrates a simple ETL (Extract, Transform, Load) pipeline built on AWS using serverless services. The pipeline ingests raw sales data from Amazon S3, catalogs it with AWS Glue Crawlers, transforms the data using AWS Glue Studio, stores it in Parquet format, and queries it using Amazon Athena.
 
+## Project Highlights
+
+- ✅ Built a serverless ETL pipeline on AWS.
+- ✅ Processed raw CSV files into optimized Parquet format.
+- ✅ Cataloged datasets using AWS Glue Crawlers.
+- ✅ Performed SQL transformations using AWS Glue Studio.
+- ✅ Queried transformed data with Amazon Athena.
+- ✅ Configured IAM permissions to enable Glue access to Amazon S3.
+
 ---
 
 ## Architecture
